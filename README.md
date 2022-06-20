@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilvaibhav
 - 👀 I’m interested in web application development
-- 🌱 I’m currently learning backend developement
+- 🌱 I’m currently learning Full Stack JS Development
 - 💞️ I’m looking to collaborate on anything which is interesting
 - 📫 Here is my email ID - nikhilvaibhav545@gmail.com
 
