@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilvaibhav
 - 👀 I’m interested in web application development
-- 🌱 I’m currently learning Front End Development using React
+- 🌱 I’m currently improving my skills on Java Backend Development using SpringBoot.
 - 💞️ I’m looking to collaborate on anything which is interesting
 - 📫 Here is my email ID - nikhilvaibhav545@gmail.com
 
